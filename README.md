@@ -1,4 +1,5 @@
 ## Smart Baby Light to Promote Comfort at Bed Time
+> NOTE: This is one of the first arduino projects i have worked on, and thus is rather ugly and in dire need of refactoring. I have uploaded it for the sole purpose of safe keeping should i want to return to it at a later date. 
 > This is a project designed and developed by Ben Kazemi in the summer of 2014 initially on an Arduino. 
 
 > At it's highest form of abstraction, it is a slow transforming, dimmable set of two narrow wave lengths in visible light, aptly named by its two user defined settings: 'hot', and 'cold' that transform depending on the childs sleep state, determined by the amount of noise emitted. 
