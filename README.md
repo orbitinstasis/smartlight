@@ -10,6 +10,8 @@
 
 > Future updates will include an android application to monitor the audio presence for ease-of-mind, and to remotely modify system settings, or to control the state of the smart light, all through bluetooth. 
 
+> Future idea is to replaced the simple solid colour LED sources (3 seperate colours per setting [hot or cold]), with two or more laser sources that have their respective light rays split into many points and reflected on a ceiling or wall, with each set of points varying in lux, and potentially moving very slowly, to give the perception of moving stars. 
+
 The smart light is eco friendly, and is currently lit by a 2 by 5 array of LEDs, of which only one is ever lit at any time. Audio input is through an op-amp circuit connected to by a sensitive electret microphone. 
 
 Code complexity and lux could be drastically reduced, and increased respectively, should a single RGB (or similar) bright LED be implemented. 
