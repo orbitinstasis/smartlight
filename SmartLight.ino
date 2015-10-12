@@ -1,6 +1,6 @@
 /*
-  Copyright (C) 2009:
-         Daniel Roggen, droggen@gmail.com
+  Copyright (C) 2014:
+         Ben Kazemi, ebaykazemi@googlemail.com
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
